@@ -1,3 +1,8 @@
+**WELCOME to the frontend part of EMPLOYEE_PAYROLL Application!!!**
+
+In this application you will get CRUD perfomance of employee.
+
+
 # EmployeePayroll
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
