@@ -1,6 +1,6 @@
 **WELCOME to the frontend part of EMPLOYEE_PAYROLL Application!!!**
 
-In this application you will get CRUD perfomance of employee.
+In this application you will get CRUD operations of employee.
 
 
 # EmployeePayroll
